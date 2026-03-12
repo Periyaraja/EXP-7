@@ -1,4 +1,4 @@
-<img width="1488" height="1046" alt="image" src="https://github.com/user-attachments/assets/91b9a2c9-884c-4e6b-ba6b-4ce6a092b201" /># Experiment 7: AI-Powered Smart Contract for Decentralized Negotiation
+# Experiment 7: AI-Powered Smart Contract for Decentralized Negotiation
 # Aim:
 # To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
 
@@ -99,12 +99,11 @@ Buyers submit offers, and the contract auto-negotiates the price.
 
 If the buyer’s offer is fair, the deal is executed.
 
-<img width="1666" height="1050" alt="image" src="https://github.com/user-attachments/assets/4020ab9b-8d3a-41d4-bf0b-7fe5cb7f4bd4" />
+<img width="1488" height="1046" alt="image" src="https://github.com/user-attachments/assets/ff62d0e0-82db-4239-b0e2-84637a5928f6" />
 
 If the offer is too low, the contract suggests a counteroffer.
 
-<img width="1488" height="1046" alt="image" src="https://github.com/user-attachments/assets/ff62d0e0-82db-4239-b0e2-84637a5928f6" />
-
+<img width="1666" height="1050" alt="image" src="https://github.com/user-attachments/assets/4020ab9b-8d3a-41d4-bf0b-7fe5cb7f4bd4" />
 
 # High-Level Overview:
 First-of-its-kind AI-powered pricing contract.
